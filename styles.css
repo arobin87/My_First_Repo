@@ -1,0 +1,40 @@
+.inline-block{
+    display: inline-block;
+    padding: center;
+    color:white;
+    background-color: black;
+}
+
+nav{
+    height: 50px;
+    background-color: lightgrey
+}
+
+.left{
+    float: left;
+    height: 1000px;
+    width: 30%;
+    background-color: blue;
+}
+
+.right{
+    float: left;
+    height: 1000px;
+    width: 70%;
+    background-color: teal;
+}
+
+.hero{
+    height: 30%;
+    background-color: orange;
+}
+
+.about{
+    height: 70%;
+    background-color: orangered;
+}
+
+img{
+    height: 50%;
+    display: inline-block;
+}
